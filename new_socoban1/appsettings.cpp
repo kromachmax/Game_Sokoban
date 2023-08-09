@@ -4,8 +4,6 @@
 
 static const QString levels_path = "levels/";
 static const QString pics_path   = "pics/";
-
-
 static std::array<unsigned int, (int)appSettings::eTexturesID::End> lTextures;
 
 appSettings::appSettings()
