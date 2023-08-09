@@ -4,7 +4,8 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Qt-v5.15.2-darkblue?logo=Qt" alt="Standart">
-   <img src="https://img.shields.io/badge/Game--Sokoban-v.1.0-white?logo=OpenGL&logoColor=white&labelColor=darkblue&color=white" alt="Version">
+   <img src="https://img.shields.io/badge/Game--Sokoban-v.1.0-white?logo=OpenGL&logoColor=white&labelColor=black&color=white
+" alt="Version">
    <img src="https://img.shields.io/badge/GNU%20General-Public%20License-khaki" alt="License">
 </p>
 
