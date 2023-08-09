@@ -39,7 +39,11 @@
 
 Видео демонстрации работы:
 
-https://github.com/tak172/Logistics_database_project/assets/120005445/37071aa0-8ad6-43d9-9414-a12967fae6f4
+
+
+https://github.com/kromachmax/Game_Sokoban/assets/115004593/b99ab5c5-10ea-454f-b39e-004fb14386d9
+
+
 
 ## Documentation
 - [Qt](https://www.qt.io/);
