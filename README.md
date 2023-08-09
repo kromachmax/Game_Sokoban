@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Qt-v5.15.3-darkblue?logo=Qt" alt="Standart">
+   <img src="https://img.shields.io/badge/Qt-v5.15.2-darkblue?logo=Qt" alt="Standart">
    <img src="https://img.shields.io/badge/Logistics_database_ptoject-v1.0-khaki" alt="Version">
    <img src="https://img.shields.io/badge/GNU%20General-Public%20License-khaki" alt="License">
 </p>
