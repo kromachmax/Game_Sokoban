@@ -41,7 +41,9 @@
 
 
 
-https://github.com/kromachmax/Game_Sokoban/assets/115004593/b99ab5c5-10ea-454f-b39e-004fb14386d9
+https://github.com/kromachmax/Game_Sokoban/assets/115004593/6c07a305-229f-423f-a3bf-6111b6d557ac
+
+
 
 
 
